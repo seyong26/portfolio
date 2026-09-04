@@ -1,0 +1,9 @@
+R version 4.5.1
+R studio version ‘2026.1.0.392’
+
+
+
+stats 4.5.1 (cmdscalse, hclust)
+ape 5.8.1 (덴드로그램 다양한 형태)
+dendextend 1.19.1 (덴드로그램 플랏)
+igraph 2.2.1 (sna 그릴때 사용)

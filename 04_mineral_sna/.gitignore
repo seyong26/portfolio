@@ -1,0 +1,10 @@
+# R 로컬 작업 이력
+.Rhistory
+.RData
+.Rproj.user/
+
+# 한글 문서 (보고서 원본)
+*.hwpx
+
+# 중첩 압축 원본
+*.zip

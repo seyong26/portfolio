@@ -1,0 +1,16 @@
+# 대회 제공 원본 데이터 (재배포 불가 · 약 144MB)
+data/
+
+# 산출물
+*.csv
+!data_description.xlsx
+submission*.csv
+checkpoints/
+*.pt
+*.pth
+
+# 파이썬
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
