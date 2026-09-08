@@ -22,7 +22,7 @@ kikle26@naver.com
 
 ## 그 외
 
-- **공공레이더** — 조달 공고 적합성 판정 2-에이전트 웹 서비스 (운영 중) · https://www.gonggoradar.kr/
+- **공공레이더** — 조달 공고 적합성 판정 2-에이전트 웹 서비스 (직접 구축·배포) · https://www.gonggoradar.kr/
 - **영천시 분석 리포트** — https://rpubs.com/kikle26/1326736
 
 ## 참고
